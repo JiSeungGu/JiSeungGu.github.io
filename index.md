@@ -1,6 +1,8 @@
 ---
-title: Welcome
+title: JiSeunggu Git Blog 
 ---
+
+지승구 Git Blog 입니다.
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
